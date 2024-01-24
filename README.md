@@ -12,6 +12,9 @@ The goal of this project is to train a machine learning model to accurately clas
    ```bash
    git clone https://github.com/your-username/MNIST-Classifier-ML.git
 2. Requirements:
+   
    conda or any other environment
+   
    tensorflow
+   
    keras
